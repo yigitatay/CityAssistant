@@ -1,0 +1,275 @@
+request_type,department,resolution_estimate,Description
+Abandoned Bicycle,"DPW, DPW",20 bd,This service request is to be used for bicycles that are left on public space and which are abandoned.
+Abandoned Vehicle - On Private Property,"DPW, DPW",45 bd,"Please use this service request to request the removal of a vehicle on private property. Please note that some circumstances, including when vehicles have been reported stolen or vehicles are located on private property, specific legal processing is required before removal is possible. If the vehicle is determined to be dangerous by the Department of Public Works, it may be ticketed and towed immediately. Reports of abandoned vehicles are resolved within 13 days if the vehicle is located on public space or within 45 days from the date of verification if the vehicle is located on private property. A vehicle on private property cannot be legally removed before 45 days have passed since it was reported, without the property owner's permission."
+Abandoned Vehicle - On Public Property,"DPW, DPW",13 bd,"Please use this service request to request the removal of vehicles on public property. Please note that some under some circumstances, including when vehicles have been reported stolen, specific legal processing may be required before removal is possible. If the vehicle is determined to be dangerous by the Department of Public Works, it may be immediately ticketed and towed. Reports of abandoned vehicles are resolved within 13 days, if the vehicle is indeed located on public space."
+Alley Repair Investigation,DDOT,270 bd,"Please use this service request type to investigate alley surfaces issues. Please identify the specific alley location, provide a description of problem (i.e. pothole, re-paving) and describe the type of existing alley surface (i.e. dirt, concrete, brick). It is also helpful to provide any additional information specific to the proposed repair."
+Bee Treatment and Inspection (DOH),DOH,14 bd,"Bee Treatment - This service request is limited to bees in public space only during the months of May through October.
+Arboviral Inspection - This service request will consist of a site evaluation, public health education and larvicide application (if needed)."
+Bicycle Services,DDOT,60 bd,"Please use this service request to report maintenance issues with bike lane wheel stops, trails, and bike racks and to request new bike racks in the public space.
+
+*For maintenance of markings, pylons, or flexposts please submit a Roadway Striping/Markings service request *To report an issue with Capital Bikeshare please visit Capital Bike Share Link or call 1-877-430-BIKE
+
+*DPW removes abandoned bikes under the Abandoned Bikes Service Request."
+Residential Bulk Collection,DPW,14 bd,"Please use this service request type to arrange a pickup for up to 7 large items, such as furniture, appliances, water heaters, mattresses, and bed frames.
+
+NOTE:
+	Hazardous materials, construction debris, and tires are not allowed.
+	Household Hazardous Waste and electronics (i.e. TV screens, computers/laptops) can be disposed of during a Special Waste Collection event. For a comprehensive list of accepted and prohibited items, you can visit https://dpw.dc.gov/page/acceptableprohibited-special-waste-items-rfk-stadium
+	For a comprehensive list of accepted and prohibited items regarding the Ft. Totten Transfer Station at 4900 John F. McCormack Road, N.E. you can visit https://dpw.dc.gov/service/fort-totten-transfer-station
+"
+Bus/Rail Issues,DDOT,60 bd,"Please use this service request type to report any bus and/or rail issues. For additional information, please use this link, Buses in the District
+
+DDOT manages the Circulator Bus program not Metro. More information can be found here, DC Circulator Bus"
+CFSA Missing/Absconded,CFSA,1 cd,"This service request type should only be used to report placement violations from CFSA managed facilities.
+
+"
+Christmas Tree Removal-Missed,DPW,5 bd,"Holiday trees, wreaths and greenery collection will commence on January 2, 2024 to March 2, 2024. Holiday trees, wreaths and greenery must be placed at the front of property on public space ONLY.
+
+Please remove ornaments and lights from trees and greenery prior to set out. Please do not put trees and greenery in a bag.
+
+DPW does not collect artificial trees. After March 2, 2024 holiday trees and greenery will be collected at your point of collection for trash."
+Container Removal,DPW,20 bd,"Please use this request type to request removal of supercans, trash container, and recycling carts
+
+"
+DC Dog Park Maintenance (DGS),DGS,60 bd,"Please report any maintenance related dog park issues at District government owned dog parks, such as broken gates, water fountain leaks, faucet repairs, etc. and the Department of General Services in coordination with the Department of Parks and Recreation (DPR) will investigate and address.
+Note, this service request does not include removal of dog waste.
+For additional information about Dog Parks, please visit website on the Department of Parks and Recreation: https://dpr.dc.gov/page/dog-parks-00
+"
+DC How Am I Driving?,ORM,30 bd,"The mission of the ""How am I Driving?"" program is to promote a safe driving culture for District government employees though reporting of unsafe driving practices to mitigate risk exposures while ensuring the safety of motorists and District government employees.
+
+"
+DC Indoor and Outdoor Pool Maintenance (DGS),DGS,60 bd,"Please report any maintenance related issues at District government owned pools, such as running showers, faucet repairs, broken dryers etc. and the Department of General Services in coordination with the Department of Parks and Recreation (DPR) Aquatics Divisions will investigate and address.
+All DC Department of Parks and Recreation (DPR) indoor and outdoor pools, which are free for DC residents and require a paid membership for non-DC residents. Find a District government owned pool near you, visit: https://dpr.dc.gov/service/find-pool
+"
+DC Water - Flood Questions,DC Water,1 bd,"Sewer backups occur when there is a blockage which prevent the normal flow of wastewater from your house to the city’s sanitary sewer lines. This happens frequently during heavy rainstorms when the sewage system becomes overloaded causing a backup inside or outside of your home. DC Water will investigate and/or make corrections to the sanitary sewer lines as needed. If it is determined the city’s line is operating properly, the homeowner is responsible for contacting a DC licensed plumber.
+
+"
+Dead Animal Collection,DPW,2 bd,"Please use this request type to request the removal of dead animals on public property.
+
+"
+DFHV - For Hire Vehicle Concerns,DFHV,30 bd,"Please use this service request to submit a concern regarding a for-hire vehicle operator or company. To aid us in identifying an operator, please provide any of the following if possible: name, license and identification number (for taxis), license plate, or PVIN (ex. B123, D345). Identifying information can also be located on your receipt. If the concern is forwarded to court for adjudication, your testimony is required. Please note that for rideshare operator concerns, the Department of For-Hire Vehicles can only resolve issues where the trip began or ended in the District.
+
+"
+DFHV - Lost and Found Claims,DFHV,30 bd,"For all inquiries regarding lost or misplaced items, please submit your request here. You will receive an email notification within 24 hours (or on the next business day) confirming that your “Lost Item Inquiry” has been received. Please note, if your lost item(s) has been found and turned into the DFHV Service Center, it may take up to 2 business days for you to be contacted. To aid us in identifying an operator, please provide any of the following if possible: name, license and identification number (for taxis), license plate, or public vehicle identification number (PVIN). Identifying information can be located on your receipt.
+
+"
+DGS - Playground Repair,DGS,180 bd,"This service request is for the repair of playground equipment at District-owned facilities managed by DGS at DCPS schools, DPR parks, and DPR recreation centers. Playground equipment repairs will vary based on resources available, labor/workforce, parts, acquisition, manufacture timelines, etc. Any locations or assets outside of DGS's purview will be rejected and closed. This service request is NOT for privately owned playgrounds. DPR Facilities
+
+"
+DGS Overflowing Recycling Can,DGS,5 bd,"This service request is to report overflowing recycling cans at District-owned DPR parks or facilities managed by DGS. Recycling collection is a scheduled service, and this request will alert DGS that a recycling can(s) requires additional service. Any locations or assets outside of DGS's purview will be rejected and closed. This service request is NOT for public recycling or trash cans. Locations: DPR Facilities
+
+"
+DMV - Appeal,DMV,7 bd,"Please use this request type to receive instructions on how to file an appeal to a ticket OR to determine the status of an appeal filed.
+
+"
+DMV - Copy of Ticket,DMV,7 bd,"Please use this request type to request a copy of a traffic ticket already received.
+
+"
+DMV - Driver and Vehicle Services Refund,DMV,7 bd,"Please use this request type to request a refund related to a Registration Fee, Surrendered Tags or License Fee Overpayment. For refunds due to ticket overpayment or dismissal please change to DMV - Refunds - Tickets
+
+"
+DMV - Drivers License/ID Issues,DMV,7 bd,"Please use this request type to report a Driver's License/ID Card that was paid for and not received, duplicate License/ID not received or any renewal issues. Also use this request type to request a handicapped placard or medical/eye report.
+
+"
+DMV - Hearings,DMV,7 bd,"Please use this request type to either request a hearing date not received (already submitted via mail, the automated phone system or in person) or request an existing hearing be rescheduled. Note: In order to reschedule an existing hearing it must be more than 7 days before the currently scheduled hearing.
+
+"
+DMV - Refunds - Tickets,DMV,7 bd,"Please use this request type to report a refund due to a ticket overpayment or dismissal that has not been received yet.
+
+"
+DMV - Vehicle Registration Issues,DMV,7 bd,"Please use this request type for vehicle registration issues such as receipt of your paid registration, personalized tags and ROSA parking exemptions.
+
+"
+DMV - Vehicle Title Issues,DMV,7 bd,"Please use this request type to submit any vehicle title issues to the DMV.
+
+"
+DOB - Illegal Construction,DOB,34 bd,"Any construction in the District of Columbia done without required building permits is illegal construction. Construction in the District of Columbia is allowed Monday through Saturday from 7:00 am to 7:00 pm without any special permits. Please call 311 to report imminent danger of collapse conditions immediately. A full street address will be needed for DOB - Illegal Construction request submissions.
+
+"
+DOB - Vacant Private Property Inspection,DOB,103 bd,"Vacant Building Enforcement schedules an initial four-point inspection for property that is privately owned within 28 business days of the request to determine if the building/private property: (1) appears vacant, (2) has excessive vegetation and (3) graffiti and (4) is open and accessible. If the inspections provide convincing evidence that the property is vacant, a letter is sent the owner of record. You should select a full street address for DOB - Vacant Private Property Inspection request submissions.
+
+"
+Dockless Vehicle Parking Complaint,DDOT,2 bd,"Please use this service request type to report concerns with dockless bikes and scooters.
+Your complaint will be sent to dockless providers to investigate and correct issues found.
+"
+Bag Law Tips (DOEE),DOEE,15 bd,"If you suspect that a business is in violation of the District's Bag Law, please provide us with details about the business and the suspected violation. The Bag Law only applies to District businesses that sell food or alcohol. These regulated businesses are required to charge the five cent fee for both plastic and paper disposable bags.
+
+"
+Construction – Erosion Runoff (DOEE),DOEE,1 bd,"DOEE, Watershed Protection Division, Inspection and Enforcement Branch (I&EB) inspects construction sites for soil erosion and drainage problems, responds to resident complaints regarding these items and recommends appropriate solutions and corrective actions for compliance with District regulations for construction and land disturbance.
+
+"
+Engine Idling Tips (DOEE),DOEE,30 bd,"If you observe a commercial vehicle idling for more than 3 minutes, please provide the location and date/time of the observed idling. Please note that the anti-idling law does not apply to privately owned vehicles. DOEE encourages citizens to upload time-stamped pictures documenting the violation. For further instructions, please Click Here!!
+
+"
+Foam Ban / Food Service Ware Requirements (DOEE),DOEE,15 bd,"Provide a tip here if a District restaurant or other food serving entity has violated one of the following regulations:
+	1. NEW District restaurants and other food-serving entities must not provide disposable utensils, condiment packets, and other small food accessories unless these items are first requested by the customer.
+	2. NEW Third-party food ordering platforms (Uber Eats, Grub Hub, and etc.) must not provide disposable utensils, condiment packets, and other small food accessories unless these items have been requested by the customer on the application.
+	3. Foam Ban: Foam products (plates, cups, bowls, coolers, clamshells, packing peanuts, and etc.) are banned from use and retail sale in the District.
+	4. Single-use Plastic Straw Ban: Plastic straws are banned from use in the District.
+	5. District restaurants and other food-serving institutions must only use food service ware determined to be compostable or recyclable to serve consumers. Examples of non-compostable or recyclable products include mixed material items like paper bags with plastic windows and paper-lined foil sandwich wraps.
+
+If you suspect a business or organization is in violation of any of the above policies, please provide its name and address and include a photo of the violation if possible.
+For more information, visit https://doee.dc.gov/foodserviceware"
+"DOEE - General Air Quality Concerns (Dust, Visible Emissions, Odor, Asbestos)",DOEE,10 bd,"DOEE’s Air Quality Division regulates various areas, including Visible emissions, Fugitive dust, Odor, and Asbestos. Requestors will be asked to provide a location, date/time and concern details.
+Please note that this service applies only to odors and air concerns emitted outdoors and does not include indoor odors such as within a home or building. This service request should not be used for odors related to trash, alleys, human waste, pet waste, animals, gas leaks, or smoking.
+DOEE will use the complaints as the basis for an investigation and may take enforcement action if the investigation confirms the complaint or refer you to an agency with jurisdiction over the source of the odor.
+"
+DOEE - Green Infrastructure Maintenance,DOEE,1 bd,"This service request is to report the need for maintenance of green infrastructure such as rain gardens, green roofs, permeable pavements, cisterns, and stream restoration projects.
+
+"
+Reporting Electronics in Trash (DPW),DPW,10 bd,"The Sustainable Solid Waste Management Amendment Act (D.C. Official Code § 8-1041.01 et seq.) (20 DCMR § 4100-4199) states that as of January 1, 2018, “no person in the District shall knowingly dispose of covered electronic equipment or subassemblies of covered electronic equipment as solid waste in the District except through recycling programs or other methods approved by the Mayor.” Please use this service request to report instances of electronics (COMPUTERS AND LAPTOPS, TABLETS AND e-READERS, COMPUTER MONITORS, COMPUTER MICE AND KEYBOARDS, PRINTERS TELEVISIONS, VCRs AND DVD PLAYERS, TV GAME CONSOLES) being disposed of in the trash."
+Placement Violations,QUC,1 cd,"This Service Request is designed to report Group Home residents who may have violated their location assignments. The use of this service request type is restricted to certified Group Homes. Any requests that are submitted that do not fit the use criteria will be automatically closed. Unauthorized use of this service request type may be investigated by the Metropolitan Police Department.
+
+"
+FEMS - Community Events,FEMS,5 bd,"The DC Department of Fire and EMS Community Outreach/Events section mission is to promote Fire Safety Awareness through partnerships with other district agencies, the community and local businesses by participating in various events throughout the city. Participation includes health screenings, fire station visits, the moon-bounce slide and distribution of fire safety materials. We require a minimum of 5 business days to process your request. Please call 202-727-1614 for all Business or Foster Care Home Fire Inspection request.
+
+"
+FEMS - Fire Safety Education,FEMS,30 bd,"Due to the COVID-19 pandemic, the DC Fire and EMS Department’s Fire Safety Education Section is currently offering virtual fire safety presentations by appointment. Our no-cost virtual presentations are offered throughout the community for all ages. Below are the virtual presentations that we currently offer: Children Fire Safety, Fire Evacuation Training, Home Fire Safety & Fire Extinguisher Training, Senior Fire Safety, Workplace & Fire Extinguisher Training To schedule a presentation, please contact us at (202) 727-1614 or click on the link below: https://fems.dc.gov/page/fems-fire-safety-presentation-request-form
+
+"
+FEMS - Fire Safety Inspection,FEMS,30 bd,"Private homes are inspected for free by DC Department of Fire and EMS (FEMS) fire companies. These inspections are disseminated to the fire companies through FEMS Public Information Office. Businesses have to pay for fire safety inspections. These inspections are conducted by FEMS Office of the Fire Marshal. The cost is $150 per inspection. Applications for this inspection can be completed on line at fems.dc.gov.
+
+"
+FEMS - Smoke Alarm Application,FEMS,14 bd,"The DC Fire and EMS Department will install one smoke alarm per residence. The requirements for receiving a free smoke alarm are: 1) You must live in the District of Columbia and show proof of residency. 2) You must be a homeowner and living in that home (not rental property). The Department will install one smoke alarm at each eligible residence at no cost. The Office of the Fire Marshal/Fire Prevention Division will contact eligible residents within 14 days of the initial request to schedule the installation of the smoke detector.
+
+"
+Graffiti Removal,DPW,10 bd,"Please use this service request type to request that graffiti be removed from any surface. A signed Graffiti Removal Release Form (Waiver) is required by DPW prior to the removal of graffiti from private property.  For more information about graffiti removal please visit the following webpage: https://dpw.dc.gov/service/graffiti-removal
+
+"
+Illegal Dumping,DPW,13 bd,"This service request is to be used for items that are placed on public space by someone other than the property/business owner. If you wish to receive a call back or email, please include your contact information.
+
+"
+Illegal Poster,DPW,5 bd,"Please use this request to report posters that have been illegally or improperly placed.
+
+"
+Leaf Collection Missed,DPW,8 bd,"DPW conducts leaf collection for each neighborhood twice a season between the dates of October 30, 2023 - January 19, 2024 based on an assigned schedule which you can find at Leaf Collection Website .
+
+If your leaves were not collected during the time period indicated on schedule, submit this service request to indicate a ""missed leaf collection"". This is for leaves raked to the curbside or tree box that were NOT collected during your scheduled collection. Please refer to the leaf collection website before submitting a request"
+"Lost/Stolen Compost Bin, Broken Compost Bin or Opt-Out of Curbside Composting Pilot Program",DPW,15 bd,"Participants in the Curbside Composting Pilot Program may use this service request to report a lost/stolen curbside compost collection bin, report a broken curbside compost collection bin, or opt-out of the Curbside Compost Collection Pilot Program. These service requests will be addressed within 15 business days. For more information about the Curbside Composting Pilot Program, please visit our website: zerowaste.dc.gov/curbsidecomposting."
+Missed Curbside Compost Collection,DPW,3 bd,"Participants in the Curbside Collection Pilot Program may use this service request to report a missed compost collection. Curbside compost collection bins are 5-gallon white buckets with orange labels and black tops. This service request is not to be confused with service requests related to trash and recycling. For more information about the Curbside Composting Pilot Program, please visit our website: https://zerowaste.dc.gov/curbsidecomposting>zerowaste.dc.gov/curbsidecomposting
+
+"
+Out of State Parking Violation (ROSA),"DPW, DPW",30 bd,"This type is designed to report out of state vehicles consistently parking overnight in the District of Columbia.
+
+"
+Parking Enforcement,DPW,1 bd,"Citizens are advised that normal operating hours for the Parking Control Branch are generally from 6:00 am until 9:30 pm, Monday through Friday. Parking enforcement requests may not be completed within the established timeframe if requests are made at night, on the weekend, or government holidays, or during extreme weather such as hurricanes or snow emergencies.
+
+"
+Parking Meter Repair,DDOT,5 bd,"Please use this request type to investigate parking meter related issues. Please indicate the specific incident location and if possible, the parking meter number.
+
+"
+Pet Waste Complaint,OUC,1 cd,"The Mayor's Office of the Clean City, in partnership with the Humane Rescue Alliance, will utilize submitted information to conduct outreach with pet owners and remind them of sanitation and animal care obligations. Locations will be tracked to schedule outreach and service blitzes to address sanitation and animal care.
+
+"
+Pothole,DDOT,3 bd,"Please use this request type for Pothole investigation. Pothole repairs normally take approximately 3 business days (72 hours), weather permitting, for completion.
+
+"
+Public Space Inspection,DDOT,60 bd,"Please use the Public Space Inspection Service Request for issues related to utility cuts, sinkholes, uneven steel plates, issues with manholes and meter tops, or possible Safe Accommodations violations. Safe Accommodations refers to the DC law that requires that when a bike lane or sidewalk is closed for construction, an equally safe accommodation, free of hazards and debris, must be provided.
+For more information, please visit Public Space Management webpage
+*For Catch Basin repair, please contact DC Water Emergency Command Center at (202) 612-3400
+*For investigation of work on private property, please use this Illegal Construction service request
+*For suspected gas leaks, please contact Washington Gas at (1-844) 927-4427"
+Public Space Litter Can Installation,DPW,270 bd,"This is a request for public trash receptables being installed at a Major Corridor, Commercial Building, Bus Stop, Church, Retail Strip, Restaurant, Laundry Mat, Public School, and/or Hospital.All installations will require ANC approval in addition to investigation by the Solid Waste Education and Enforcement Program Inspector. Please ensure your ANC is aware of this request before submission.THIS SERVICE REQUEST FOR THE INSTALLATION OF NEW LITTER CANS ON PUBLIC SPACE.This is not a request for household trash/recycling containers. If you are requesting repair, please use Public Space Litter Can Repair. If you are requesting removal, please use Public Space Litter Can Removal.
+
+"
+Public Space Litter Can Removal,DPW,60 bd,"This is a request for public trash receptacles being removed from a Residential area, Major Corridor, Commercial Building, Bus Stop, Church, Retail Strip, Restaurant, Laundry Mat, Public School, and/or Hospital. All removals will require ANC approval in addition to investigation by the Solid Waste Education and Enforcement Program Inspector.
+
+Please ensure your ANC is aware of this request before submission. THIS SERVICE REQUEST IS FOR THE REMOVAL OF LITTER CANS.
+
+This is not a request for household trash/recycling containers. If you are requesting repair, please use Public Space Litter Can Repair. If you are requesting installation, please use Public Space Litter Can Installation."
+Public Space Litter Can Repair,DPW,60 bd,"This is a request for public trash receptacles being repaired at a Major Corridor, Commercial Building, Bus Stop, Church, Retail Strip, Restaurant, Laundry Mat, Public School, and/or Hospital.If you are requesting installation, please use Public Space Litter Can Installation.If you are requesting removal, please use Public Space Litter Can Removal. THIS SERVICE REQUEST IS FOR THE REPAIR OF LITTER CANS . This is not a request for household trash/recycling containers.
+
+"
+Litter can - Collection,DPW,2 bd,"Please use this request type to report a public trash can that is full/overflowing and needs to be emptied.
+
+"
+Rat Replacement Containers,DPW,10 bd,"This service request is used for containers that have been destroyed by rats only. This applies to containers that began with W for trash carts/super cans and R for the recycling carts. Sanitation Enforcement will investigate your claim. Resident must have a container number before submitting request. Lid damage should be referred to ""Container Repair"" request type.
+
+"
+Recycling - School Program,DPW,5 bd,"Please use this type to request a visit to a school to provide recycling information.
+
+"
+Recycling Cart Repair,DPW,20 bd,"Please use this service request type to request that repairs are made to your Recycling Cart. Repairs can be made to Recycling Cart lids, lift bars and wheels.
+
+"
+Recycling Cart Delivery,DPW,20 bd,"Use this type to request a recycling bin or cart. Senior citizens age 60 and older will be able to pay $25.00 for blue recycling cans that are used citywide. Provided that they can show proof of their age. Once the container is delivered, residents should put their address (street name and number) on the side and top (a bright, garish paint will make the container stand out) and record the container’s serial number to help deter theft and assist in identifying the container if it does go missing.
+
+"
+Recycling Collection - Missed,DPW,2 bd,"This request is for residential household recycling collected in the blue container, which is collected once a week. This does not include public space littercans which are located at bus-stops, intersections, and parks. Please create a separate service request for public space littercan-collection.
+
+"
+Recycling - Information Request,DPW,5 bd,"Have a recycling question? Visit zerowaste.dc.gov for recycling information, tools, and resources. Please use this request type to request recycling information be mailed to your home.
+
+"
+Resident Parking Permit,DDOT,60 bd,"Please use this service request type for more information on the Resident Parking Permit (RPP) program. This program was initiated by the District to increase access to on-street parking for residents in their neighborhoods. For more information about the RPP program, please visit the following webpage:  https://ddot.dc.gov/node/542932
+
+"
+Residential Parking Permit Violation,"DPW, DPW",1 bd,"Please use this type to report violations in areas where a permit is required to park on residential streets. The Residential Parking Program (RPP) limits on-street parking to participating residents living on designated blocks, and parking is limited to two hours during the hours of operation for those vehicles without the appropriate zone RPP sticker.
+
+"
+Roadway Repair,DDOT,270 bd,"Please use this service request type to investigate street surface issues. Please provide the specific location (i.e. address, intersection) and describe the specific repair problem (i.e. uneven pavement, numerous potholes). Also if possible, provide any information regarding the street surfaces paving material (i.e. concrete, asphalt, or brick).
+
+"
+Roadway Signs,DDOT,130 bd,"Please use this service request to report all maintenance issues related to signs and/or poles. Identify the location’s adjacent specific address and answer the service request’s questions accurately. Work can take up to 130 days; however, stop signs and safety-related signs are given the highest priority. Stop sign maintenance issues will be resolved within five (5) business days.
+
+"
+Roadway Striping / Markings,DDOT,270 bd,"Please use this request type for faded or damaged markings, striping, pylons (including “stop for pedestrians” pylons), flex posts, and bollards. If this is a request for new markings or striping (where they did not previously exist), please enter a Traffic Safety Investigation service request through 311.
+
+"
+Rodent Inspection and Treatment (Rat),DOH,5 bd,"For requests where rat activity is observed, the Department of Health will continue baiting the area monthly until there is no evidence of rats.
+
+"
+Sanitation Enforcement,DPW,5 bd,"Please use this request type to report improper disposal of trash or solid waste. SWEEP inspectors will issue tickets for violations such as using street litter cans for trash that should go in your own trash can, improperly posting signs in the public space, or having trash/recycling containers in public space before 6:30 pm the day before your collection day or after 8 pm on the collection day. Business property owners may be cited for not having licensed trash and recycling haulers or not having frequent enough solid waste collections.
+
+"
+Scheduled Yard Waste,DPW,14 bd,"Yard Waste Collection is a scheduled appointment for compositing . Yard Waste consists of twigs, clippings, leaves, grass and small branches of tree limbs that should be no more than 4 feet long and 4 inches in diameter, tied and bundled. DPW will collect up to 20 bags/bundles of Yard Waste. Yard waste must be placed out in paper bags and at your point of trash collection. Yard Waste contained in plastic bags will not be collected.
+
+"
+Sidewalk Repair,DDOT,270 bd,"Please use this service request type for a sidewalk repair investigation. Please identify the specific issue location, describe the sidewalk problem and if possible, the type of sidewalk material (i.e. concrete, brick or other surface). Please also provide any information regarding the severity of the damage to the sidewalk's surface (i.e. cracked or broken, missing bricks, tree roots pushing up through the sidewalk).
+
+"
+Streetlight Repair Investigation,DDOT,7 bd,"Please use this service request type to investigate streetlight issues only, including requests for lighting levels to be adjusted. Please provide the location of the streetlight, the type of pole (i.e. wood, metal) and describe the specific problem (i.e. light out, missing globe, light on continuously). If this is an emergency (e.g. streetlight pole has fallen), please CALL 311. NOTE: This request type may also be used for Tree Pruning at Alley Lights. Please DO NOT use this service request type to report maintenance issues related to Traffic Signals
+
+"
+Supercan - Delivery,DPW,20 bd,"Once the container is delivered, residents should put their address (street name and number) on the side and top (a bright, garish paint will make the container stand out) and record the container’s serial number to help deter theft and assist in identifying the container if it does go missing.
+
+"
+Supercan - Repair,DPW,20 bd,"Please use this service request type to request that repairs be made to your Supercan. Repairs can be made to Supercan lids, lift bars and wheels. Repairs cannot be made on containers that are more than 10 years old.
+
+"
+Traffic Safety Input,DDOT,1 bd,"Please use this service request type to report traffic safety concerns for people using all modes of transportation; traffic safety around schools; lack of infrastructure (such as crosswalks) that could make streets unsafe; and concerns about speeding.
+
+DDOT will evaluate and prioritize your request based on objective factors such as roadway characteristics, crash patterns, equity, proximity to Vision Zero High Injury Network corridors and locations with vulnerable road users such as schools. Based on these factors, DDOT will develop a work plan for 200 prioritized locations each quarter to evaluate the extent of the safety issues and determine if mitigations are warranted.
+
+For information regarding traffic calming measures, view the DDOT website at the following address: Traffic Safety Input .
+
+NOTE: Please do NOT use this service request type to report maintenance issues related to existing Roadway Signs, Traffic Signal Issues, Sidewalk Repair, Roadway Markings, Tree Pruning, or Roadway Repair (including speed hump repair requests).
+
+For such requests, please select the corresponding service request type from DC 311. Maintenance requests submitted as Traffic Safety Inputs will not be addressed."
+Traffic Signal Issue,DDOT,2 bd,"Please use this service request type to investigate traffic signal issues. Please provide the specific location of traffic signal (i.e. NE corner, SW corner, etc.) and describe the specific problem, (i.e. flashing, all-out, red out, pedestrian signal out, etc.).
+
+"
+Trash Cart - Delivery,DPW,20 bd,"Please use this request type to order a new/replacement trash cart. This request type may be used by individuals who have twice-per-week collection. There is a fee of $45 for each cart and payments should be made payable to the DC Treasurer and mailed to 1725 15th Street, N.E., Washington, DC 20002. Please be sure to include your service request number on the check. Senior Citizens are offered a discount rate of $27.00, provided that they can show proof of age (60). Households that have once per week collection should make a request for a Supercan. Residences with 4 units or more are considered commercial and trash service must be provided by the landlord or HOA. Once the container is delivered, residents should put their address (street name and number) on the side and top (a bright, garish paint will make the container stand out) and record the container’s serial number to help deter theft and assist in identifying the container if it does go missing.
+
+"
+Trash Cart Repair,DPW,20 bd,"Please use this service request type to request repairs be made to your trash cart. Repairs can be made to trash cart lids, lift bars and wheels. If cart cannot be repaired customer will need to purchase a new cart.
+
+"
+Trash Collection - Missed,DPW,2 bd,"Please use this service request type to report missed regular trash collection. If routine trash collection falls on a holiday, the service will be delayed by 1 day.
+
+"
+Tree Inspection,DDOT,5 bd,"Use this request type to report an urgent tree matter involving public trees or impacting public space which requires immediate attention. Examples include broken hanging limbs, fallen trees and trees damaged during severe weather events. For more information regarding UFD's urban forest management activities, please visit https://trees.dc.gov/
+
+"
+Tree Planting,DDOT,500 bd,"Urban Forestry Administration (UFA) plants nearly 8,000 street trees each year. Residents may request a tree for an existing, empty tree box or continuous planting strip (grass strip) in front of their residence, or trees for an entire block by calling 311. All planting requests must be submitted before June 15 to be processed for the upcoming fall/winter planting season.
+
+"
+Tree Pruning,DDOT,180 bd,"Please use this service type to request a public space tree be pruned. DDOT's Urban Forestry Administration (UFA) prunes the District's street trees to maintain the trees overall health, form, and safety for the area around the tree. Trees are also pruned to give clearance over sidewalks and roadways, followed by minor roadways, alleys (to allow passage for sanitation and emergency vehicles), and pedestrian walkways. DDOTs UFA will make the final determination regarding the viability of pruning a tree.
+
+"
+Tree Removal,DDOT,180 bd,"Please use this service type to request the removal of a dead or badly damaged tree from public space. DDOT's Urban Forestry Administration (UFA) removes trees that are dead, dying/diseased, or unsafe (those that have structural and/or dangerous root defects which cannot be corrected). Once a tree is inspected by an arborist, the arborist will determine what measures should be taken in regard to the tree in question. In the event of an emergency, such as broken or hanging limbs, or if a tree is down blocking the flow of traffic or obscuring the view of a stop sign or other traffic sign, the DDOT's Urban Forestry Division will respond to mitigate the issue.
+
+"
+Vacant Lot - Public Property Only,DPW,50 bd,"Please use this service request type to request trash removal and / or grass cutting on vacant lots (public property only) without structures on them.
+
+"

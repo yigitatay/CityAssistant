@@ -1,0 +1,358 @@
+,request_type,question
+0,Insect Treatment,How quickly can the city respond to a request for insect treatment?
+1,Insect Treatment,What type of insects are typically treated by the city?
+2,Insect Treatment,Is there a limit on the number of times a resident can request insect treatment services?
+3,Trash Cart - Delivery,How long will it take to receive a new trash cart after submitting a request for delivery?
+4,Trash Cart - Delivery,Is there a limit to the number of trash carts that can be delivered to a residence?
+5,Trash Cart - Delivery,Can I request a specific size or color of trash cart for delivery?
+6,Recycling - School Program,How can my child's school participate in the recycling program?
+7,Recycling - School Program,What materials are accepted for recycling in the school program?
+8,Recycling - School Program,Are there any guidelines or procedures that need to be followed for the school recycling program?
+9,Snow/Ice Removal,How quickly can the city respond to requests for snow/ice removal?
+10,Snow/Ice Removal,Are there specific criteria for determining which areas receive priority for snow/ice removal?
+11,Snow/Ice Removal,What steps can residents take to ensure their requests for snow/ice removal are addressed promptly?
+12,Sidewalk Repair,How long does it typically take for a sidewalk repair request to be addressed?
+13,Sidewalk Repair,Are there any specific criteria for determining the urgency of a sidewalk repair request?
+14,Sidewalk Repair,Can residents request a follow-up inspection after a sidewalk repair has been completed?
+15,Roadway Striping / Markings,When will the roadway striping / markings be completed in my neighborhood?
+16,Roadway Striping / Markings,How often are roadway striping / markings updated or refreshed?
+17,Roadway Striping / Markings,Can residents request specific types of roadway striping / markings for their area?
+18,Parking Enforcement,How can I request parking enforcement in my neighborhood?
+19,Parking Enforcement,What are the specific regulations for parking enforcement in residential areas?
+20,Parking Enforcement,How quickly can I expect parking enforcement to respond to my request?
+21,DOEE - Bag Law Tips,How can I ensure I am in compliance with the DOEE Bag Law?
+22,DOEE - Bag Law Tips,Are there any exemptions to the DOEE Bag Law that I should be aware of?
+23,DOEE - Bag Law Tips,What are some tips for reducing my use of single-use plastic bags in accordance with the DOEE Bag Law?
+24,Supercan - Repair,How long will it take for my Supercan to be repaired?
+25,Supercan - Repair,What is the process for requesting a repair for my Supercan?
+26,Supercan - Repair,Will there be any additional costs associated with repairing my Supercan?
+27,Recycling- Information Request,How do I properly dispose of electronics for recycling?
+28,Recycling- Information Request,What items can be recycled in my curbside bin?
+29,Recycling- Information Request,Where can I find information on drop-off locations for recycling hazardous materials?
+30,DDS - Theft of Personal Property,How can I report the theft of personal property through the 311 system?
+31,DDS - Theft of Personal Property,Will I need to provide any documentation or evidence of the theft when submitting a request?
+32,DDS - Theft of Personal Property,What steps will be taken by the city to investigate and address the theft of personal property reported through 311?
+33,Residential Parking Permit Violation,How do I report a residential parking permit violation?
+34,Residential Parking Permit Violation,What are the consequences for violating a residential parking permit?
+35,Residential Parking Permit Violation,Can I request a review or appeal for a residential parking permit violation ticket?
+36,Resident Parking Permit,How do I apply for a resident parking permit?
+37,Resident Parking Permit,What documents do I need to provide to obtain a resident parking permit?
+38,Resident Parking Permit,How long does it take to receive a resident parking permit after applying?
+39,Abandoned Vehicle - On Private Property,How long does it typically take for the city to respond to a report of an abandoned vehicle on private property?
+40,Abandoned Vehicle - On Private Property,What steps can I take as a concerned resident to expedite the process of having an abandoned vehicle removed from private property?
+41,Abandoned Vehicle - On Private Property,Are there any specific criteria or regulations that determine whether a vehicle is considered abandoned on private property?
+42,Bicycle Services,How can I request a bike rack installation in my neighborhood?
+43,Bicycle Services,What resources are available for reporting abandoned bicycles?
+44,Bicycle Services,Is there a program in place for bicycle safety education in the community?
+45,DMV - Drivers License/ID Reinstatement,How can I reinstate my driver's license or ID?
+46,DMV - Drivers License/ID Reinstatement,What documentation do I need to provide for reinstatement?
+47,DMV - Drivers License/ID Reinstatement,Are there any fees associated with reinstating my driver's license or ID?
+48,Snow Removal Complaints for Sidewalks,How quickly will my snow removal complaint for sidewalks be addressed?
+49,Snow Removal Complaints for Sidewalks,What are the consequences for property owners who do not comply with snow removal regulations?
+50,Snow Removal Complaints for Sidewalks,Is there a specific process for reporting repeat offenders of snow removal violations?
+51,Snow Other,How quickly can the city respond to my request for snow removal on my street?
+52,Snow Other,Are there any specific guidelines or requirements for submitting a snow removal request?
+53,Snow Other,What is the typical turnaround time for addressing snow-related concerns in residential areas?
+54,Bulk Collection,What items are considered acceptable for bulk collection?
+55,Bulk Collection,How frequently does the bulk collection service occur in our neighborhood?
+56,Bulk Collection,Is there a limit to the amount of items that can be included in a bulk collection request?
+57,Sign New Investigation,How long will it take for the new sign investigation to be completed?
+58,Sign New Investigation,Will I receive updates on the progress of the investigation?
+59,Sign New Investigation,What criteria are used to determine if a new sign is needed in a specific location?
+60,FEMS - Fire Safety Inspection,How often does the Fire and Emergency Medical Services (FEMS) conduct fire safety inspections in residential buildings?
+61,FEMS - Fire Safety Inspection,What are the common violations found during fire safety inspections?
+62,FEMS - Fire Safety Inspection,How can residents request a fire safety inspection for their building through the 311 service?
+63,Abandoned Vehicle - On Public Property,How long does it typically take for the city to address reports of abandoned vehicles on public property?
+64,Abandoned Vehicle - On Public Property,What steps can residents take to expedite the removal of an abandoned vehicle in their neighborhood?
+65,Abandoned Vehicle - On Public Property,Are there any specific criteria or guidelines that determine whether a vehicle is considered abandoned on public property?
+66,DMV - Appeal,How do I file an appeal with the DMV?
+67,DMV - Appeal,What is the timeline for the appeal process?
+68,DMV - Appeal,What documentation do I need to provide for my appeal?
+69,Dead Animal Collection,How quickly can a dead animal be collected from my property?
+70,Dead Animal Collection,Will I be charged for requesting a dead animal collection?
+71,Dead Animal Collection,What happens to the dead animals after they are collected by the city?
+72,Sign Replacement,How long does it typically take for a sign replacement request to be fulfilled?
+73,Sign Replacement,What is the process for requesting a sign replacement in my neighborhood?
+74,Sign Replacement,Are there any fees associated with requesting a sign replacement?
+75,FEMS - Community Events,How can I request FEMS presence at a community event?
+76,FEMS - Community Events,What types of community events qualify for FEMS assistance?
+77,FEMS - Community Events,Is there a cost associated with requesting FEMS for a community event?
+78,DCRA - Illegal Construction,How do I report illegal construction in my neighborhood to DCRA?
+79,DCRA - Illegal Construction,What are the consequences for individuals or businesses found to be engaging in illegal construction?
+80,DCRA - Illegal Construction,How long does it typically take for DCRA to investigate and address reports of illegal construction?
+81,Grass and Weeds Mowing,How long will it take for the city to mow the grass and weeds on my property?
+82,Grass and Weeds Mowing,Is there a specific process I need to follow to request mowing services for my property?
+83,Grass and Weeds Mowing,Will the city notify me before they come to mow the grass and weeds on my property?
+84,DMV - Copy of Ticket,How do I request a copy of a ticket from the DMV?
+85,DMV - Copy of Ticket,What information do I need to provide in order to obtain a copy of a ticket?
+86,DMV - Copy of Ticket,Is there a fee associated with requesting a copy of a ticket from the DMV?
+87,Sanitation Enforcement,How can I report a sanitation violation in my neighborhood?
+88,Sanitation Enforcement,What are the consequences for failing to comply with sanitation regulations?
+89,Sanitation Enforcement,Is there a way to track the progress of my sanitation enforcement request?
+90,DMV - Driver and Vehicle Services Refund,How do I request a refund for a driver and vehicle services fee from the DMV?
+91,DMV - Driver and Vehicle Services Refund,What information do I need to provide in order to receive a refund for a driver and vehicle services fee?
+92,DMV - Driver and Vehicle Services Refund,How long does it typically take to receive a refund for a driver and vehicle services fee from the DMV?
+93,Bus/Rail Issues,How do I report a bus or rail issue in my neighborhood?
+94,Bus/Rail Issues,What kind of bus or rail issues can I report through 311?
+95,Bus/Rail Issues,Can I track the progress of my bus or rail issue report after submitting it to 311?
+96,Container Removal,How do I request a container removal?
+97,Container Removal,What are the guidelines for scheduling a container removal?
+98,Container Removal,Can I request a container removal for a specific date and time?
+99,School Crossing Guard,How can I request a school crossing guard for my child's school?
+100,School Crossing Guard,What qualifications are required for someone to become a school crossing guard?
+101,School Crossing Guard,How can I provide feedback or make a complaint about a school crossing guard?
+102,Roadway Repair,How long will it take for the roadway repair to be completed?
+103,Roadway Repair,Will the roadway repair cause any disruptions to traffic flow?
+104,Roadway Repair,What is the process for reporting a roadway repair request?
+105,DMV - Drivers License/ID Issues,How can I renew my driver's license if it has expired?
+106,DMV - Drivers License/ID Issues,What documentation do I need to bring to the DMV to update my address on my driver's license?
+107,DMV - Drivers License/ID Issues,Is there a way to expedite the process of replacing a lost or stolen driver's license?
+108,Recycling Collection - Missed,Why was my recycling collection missed?
+109,Recycling Collection - Missed,Will my missed recycling collection be rescheduled?
+110,Recycling Collection - Missed,How can I report a missed recycling collection in the future?
+111,Tree Pruning,How often should trees be pruned in residential areas?
+112,Tree Pruning,What is the process for requesting tree pruning in my neighborhood?
+113,Tree Pruning,Are there specific guidelines or regulations for tree pruning that I should be aware of?
+114,Traffic Safety Investigation,How long does a traffic safety investigation typically take to complete?
+115,Traffic Safety Investigation,What criteria are used to determine if a traffic safety investigation is warranted?
+116,Traffic Safety Investigation,Can residents request a traffic safety investigation for a specific intersection or area?
+117,Vacant Lot,How can I report a vacant lot in my neighborhood that needs maintenance?
+118,Vacant Lot,What steps can the city take to address safety concerns related to vacant lots?
+119,Vacant Lot,Is there a process for requesting the city to develop a vacant lot for community use?
+120,DMV - Processing Center Manager,How do I contact the DMV Processing Center Manager?
+121,DMV - Processing Center Manager,What is the typical processing time for requests submitted to the DMV Processing Center Manager?
+122,DMV - Processing Center Manager,Can the DMV Processing Center Manager assist with specific issues related to driver's licenses or vehicle registration?
+123,Roadway Signs,How can I request a new roadway sign to be installed in my neighborhood?
+124,Roadway Signs,Can I report a damaged or missing roadway sign through the 311 system?
+125,Roadway Signs,What is the process for requesting a change to the wording or design of a roadway sign?
+126,DMV - Vehicle Inspection Issues,How do I schedule a vehicle inspection appointment with the DMV?
+127,DMV - Vehicle Inspection Issues,What documentation do I need to bring with me for a vehicle inspection?
+128,DMV - Vehicle Inspection Issues,Can I request a re-inspection if my vehicle fails the initial inspection?
+129,Rodent Inspection and Treatment,How quickly can a rodent inspection and treatment be scheduled?
+130,Rodent Inspection and Treatment,What methods are used for rodent inspection and treatment?
+131,Rodent Inspection and Treatment,Are there any precautions I need to take before and after the treatment?
+132,Emergency - Power Outage/Wires Down,How quickly can the city respond to a report of a power outage or downed wires?
+133,Emergency - Power Outage/Wires Down,What steps should residents take to stay safe during a power outage or when wires are down?
+134,Emergency - Power Outage/Wires Down,Are there any resources or assistance available for residents affected by a power outage or downed wires?
+135,Child Safety Seat Program,How can I request a child safety seat through the program?
+136,Child Safety Seat Program,Are there specific eligibility requirements for participating in the Child Safety Seat Program?
+137,Child Safety Seat Program,What types of child safety seats are available through the program?
+138,Alley Repair,How quickly can the alley repair request be completed?
+139,Alley Repair,Will the repair process disrupt access to my property?
+140,Alley Repair,What is the typical timeframe for alley repairs to be completed in my neighborhood?
+141,Illegal Dumping,How quickly can the city respond to reports of illegal dumping?
+142,Illegal Dumping,What are the consequences for individuals caught illegally dumping?
+143,Illegal Dumping,Are there any resources available to help prevent illegal dumping in our neighborhood?
+144,FEMS - Fire Safety Education,How can I schedule a fire safety education presentation for my community group?
+145,FEMS - Fire Safety Education,What topics are covered in a fire safety education presentation?
+146,FEMS - Fire Safety Education,Are there any resources available for individuals looking to educate themselves further on fire safety?
+147,Street Cleaning,How often does street cleaning occur in my neighborhood?
+148,Street Cleaning,Can I request a specific street or area to be added to the street cleaning schedule?
+149,Street Cleaning,What should I do if I notice that a street cleaning request has not been completed in my area?
+150,Bed Bugs,How can I report a bed bug infestation in my apartment?
+151,Bed Bugs,What steps should I take to prepare for a bed bug treatment?
+152,Bed Bugs,Is there a way to prevent bed bugs from returning after treatment?
+153,Pothole,How quickly can the city respond to a reported pothole?
+154,Pothole,What is the process for repairing a pothole once it has been reported?
+155,Pothole,Are there any specific criteria for determining the priority of pothole repairs in different areas of the city?
+156,Yard Waste - Missed,Why was my yard waste pickup missed?
+157,Yard Waste - Missed,How can I ensure that my yard waste is collected in the future?
+158,Yard Waste - Missed,Is there a way to expedite the pickup of my missed yard waste?
+159,Traffic Signal Issue,How quickly can the traffic signal issue be resolved?
+160,Traffic Signal Issue,What is the process for reporting a traffic signal issue?
+161,Traffic Signal Issue,Are there any updates on the status of the traffic signal issue in my area?
+162,DMV - Offset Tracking,How can I track the status of my offset with the DMV?
+163,DMV - Offset Tracking,What information do I need to provide in order to request an offset tracking from the DMV?
+164,DMV - Offset Tracking,Is there a timeline for when I can expect a response regarding my offset tracking request with the DMV?
+165,DMV - Hearings,How can I request a hearing with the DMV?
+166,DMV - Hearings,What is the process for scheduling a DMV hearing?
+167,DMV - Hearings,What documentation do I need to provide for a DMV hearing request?
+168,Emergency - Flooding,How quickly will the city respond to reports of flooding emergencies?
+169,Emergency - Flooding,What steps can residents take to minimize damage during a flooding emergency?
+170,Emergency - Flooding,Are there any resources available to help residents affected by flooding emergencies?
+171,Tree Removal,How long does it typically take for a tree removal request to be processed?
+172,Tree Removal,What criteria must be met for a tree to be considered for removal?
+173,Tree Removal,Are there any fees associated with requesting a tree removal through 311?
+174,FEMS - Honor Guard,What is the purpose of the FEMS Honor Guard?
+175,FEMS - Honor Guard,How can I request the FEMS Honor Guard for a special event?
+176,FEMS - Honor Guard,What are the qualifications for becoming a member of the FEMS Honor Guard?
+177,Emergency No-Parking Verification,How quickly can I expect a response to my request for emergency no-parking verification?
+178,Emergency No-Parking Verification,What documentation do I need to provide to support my request for emergency no-parking verification?
+179,Emergency No-Parking Verification,Are there any fees associated with requesting emergency no-parking verification?
+180,FEMS - Smoke Alarm Application,How do I apply for a smoke alarm through FEMS?
+181,FEMS - Smoke Alarm Application,Is there a cost associated with the smoke alarm application?
+182,FEMS - Smoke Alarm Application,What is the process for installation of the smoke alarm after submitting an application?
+183,Hypothermia Shelter Information,What are the criteria for accessing a hypothermia shelter?
+184,Hypothermia Shelter Information,How do I locate the nearest hypothermia shelter in my area?
+185,Hypothermia Shelter Information,Are there any transportation options available to get to a hypothermia shelter if I am unable to get there on my own?
+186,Alley Cleaning,How often does the city schedule alley cleanings?
+187,Alley Cleaning,Can residents request a specific date for alley cleaning?
+188,Alley Cleaning,What items are considered acceptable for removal during alley cleaning?
+189,DMV - Adjudication Supervisor,How can I contact the DMV Adjudication Supervisor?
+190,DMV - Adjudication Supervisor,What is the process for appealing a decision made by the DMV Adjudication Supervisor?
+191,DMV - Adjudication Supervisor,Are there any specific requirements or documentation needed when submitting a request to the DMV Adjudication Supervisor?
+192,Recycling - Commercial Only,How can my business sign up for commercial recycling services?
+193,Recycling - Commercial Only,What items are accepted for commercial recycling?
+194,Recycling - Commercial Only,Are there any fees associated with commercial recycling services?
+195,Supercan - Delivery,How long will it take for the Supercan to be delivered after submitting a request?
+196,Supercan - Delivery,Is there a fee for having a Supercan delivered to my residence?
+197,Supercan - Delivery,Can I request a specific size or color of Supercan for delivery?
+198,Residential Snow Removal (ServeDC),How do I request snow removal services for my residential property through ServeDC?
+199,Residential Snow Removal (ServeDC),What areas does ServeDC cover for residential snow removal services?
+200,Residential Snow Removal (ServeDC),Are there any fees associated with requesting residential snow removal through ServeDC?
+201,Christmas Tree Removal-Seasonal,How do I schedule a Christmas tree removal in my neighborhood?
+202,Christmas Tree Removal-Seasonal,Is there a specific date by which I need to request a Christmas tree removal?
+203,Christmas Tree Removal-Seasonal,What are the guidelines for preparing my Christmas tree for removal?
+204,DOEE - Engine Idling Tips,How can I report a vehicle that is idling excessively in my neighborhood?
+205,DOEE - Engine Idling Tips,Are there any specific regulations or fines in place for vehicles that idle for extended periods of time?
+206,DOEE - Engine Idling Tips,What are the environmental impacts of excessive engine idling and how can I help reduce them in my community?
+207,Public Space Litter Can- Installation/Removal/Repair,How can I request a new public space litter can to be installed in my neighborhood?
+208,Public Space Litter Can- Installation/Removal/Repair,Can I request for a damaged public space litter can to be repaired?
+209,Public Space Litter Can- Installation/Removal/Repair,Is it possible to have a public space litter can removed from a specific location?
+210,Snow Metro Bus Shelter/Stop,How quickly can the snow be cleared from the Metro bus shelter/stop?
+211,Snow Metro Bus Shelter/Stop,Will there be any delays in service due to the snow at the bus shelter/stop?
+212,Snow Metro Bus Shelter/Stop,Is there a designated crew responsible for clearing snow at the Metro bus shelter/stop?
+213,Leaf Season Collection,When does leaf season collection typically begin and end in my area?
+214,Leaf Season Collection,Are there any specific guidelines or requirements for preparing leaves for collection?
+215,Leaf Season Collection,How frequently can I expect leaf collection to occur in my neighborhood during the season?
+216,Homeless Services - Winter/Hypothermia Season,What services are available for homeless individuals during the winter/hypothermia season?
+217,Homeless Services - Winter/Hypothermia Season,How can homeless individuals access shelter or other resources during cold weather?
+218,Homeless Services - Winter/Hypothermia Season,Are there specific outreach programs in place to help homeless individuals during the winter/hypothermia season?
+219,Illegal Fireworks,How can I report illegal fireworks being used in my neighborhood?
+220,Illegal Fireworks,What are the consequences for individuals caught using illegal fireworks?
+221,Illegal Fireworks,Is there a specific time frame in which illegal fireworks complaints are most common?
+222,Recycling Cart - Repair,How quickly can the recycling cart be repaired?
+223,Recycling Cart - Repair,"Will the repair be done on-site, or will I need to bring the cart somewhere?"
+224,Recycling Cart - Repair,Is there a fee for repairing the recycling cart?
+225,Illegal Poster,How do I report an illegal poster in my neighborhood?
+226,Illegal Poster,What is the process for removing illegal posters from public spaces?
+227,Illegal Poster,Are there any fines or penalties for posting illegal posters?
+228,DCRA - Vacant Property Inspection,How do I request a vacant property inspection from DCRA?
+229,DCRA - Vacant Property Inspection,What are the requirements for a property to be considered vacant?
+230,DCRA - Vacant Property Inspection,How long does it typically take for DCRA to conduct a vacant property inspection after a request is made?
+231,DMV - Refunds - Tickets,How can I request a refund for a ticket issued by the DMV?
+232,DMV - Refunds - Tickets,What is the process for appealing a ticket and potentially receiving a refund?
+233,DMV - Refunds - Tickets,Are there any specific circumstances in which the DMV automatically issues refunds for tickets?
+234,DC Government Information,How can I access information about upcoming government events in DC?
+235,DC Government Information,Can I request information on local government services and programs through 311?
+236,DC Government Information,Is there a specific department within the DC government that handles information requests from residents?
+237,DMV - Vehicle Insurance Lapse,How do I report a vehicle insurance lapse to the DMV?
+238,DMV - Vehicle Insurance Lapse,What are the consequences of having a vehicle insurance lapse?
+239,DMV - Vehicle Insurance Lapse,Can the DMV provide any resources or assistance for reinstating insurance coverage?
+240,Snow/Ice Removal (Roadways AND Bridge walkways ONLY),How quickly can the city respond to reports of snow and ice on roadways and bridge walkways?
+241,Snow/Ice Removal (Roadways AND Bridge walkways ONLY),What measures are in place to ensure that roadways and bridge walkways are cleared in a timely manner?
+242,Snow/Ice Removal (Roadways AND Bridge walkways ONLY),Is there a specific protocol for prioritizing snow and ice removal on roadways and bridge walkways?
+243,Sign Removal investigation,How long will it take for the sign removal investigation to be completed?
+244,Sign Removal investigation,What is the process for requesting a sign removal investigation?
+245,Sign Removal investigation,Can I track the progress of my sign removal investigation request?
+246,DOEE - Ban on Foam Food Containers,How will the ban on foam food containers impact local businesses and restaurants?
+247,DOEE - Ban on Foam Food Containers,What alternative options are available for food packaging once foam containers are banned?
+248,DOEE - Ban on Foam Food Containers,Will there be any exceptions or exemptions to the ban on foam food containers for certain businesses or events?
+249,Tree Planting,How can I request a tree to be planted in my neighborhood?
+250,Tree Planting,What types of trees are typically planted through the city's tree planting program?
+251,Tree Planting,Can residents choose the location for a tree to be planted near their property?
+252,DMV - Driver Record Issues,How can I obtain a copy of my driver record?
+253,DMV - Driver Record Issues,What should I do if there is an error on my driver record?
+254,DMV - Driver Record Issues,Can I request a driver record for someone else?
+255,"DMV - Forms, Applications, and Manuals Request",How can I request specific forms from the DMV?
+256,"DMV - Forms, Applications, and Manuals Request",Is there a way to request applications online for the DMV?
+257,"DMV - Forms, Applications, and Manuals Request",Can I request manuals for specific services from the DMV through 311?
+258,How Is My Driving - Compliment,How can I provide a compliment for a specific driver?
+259,How Is My Driving - Compliment,What information do I need to include in my compliment about a driver's performance?
+260,How Is My Driving - Compliment,Will the driver be made aware of the compliment I submit through 311?
+261,DOEE - Construction – Erosion Runoff,How can I report construction sites that are causing erosion runoff?
+262,DOEE - Construction – Erosion Runoff,What are the potential environmental impacts of construction erosion runoff?
+263,DOEE - Construction – Erosion Runoff,Is there a way for residents to track the progress of addressing construction erosion runoff issues in their neighborhood?
+264,DMV - eTIMS Ticket Alert Services Issues,How do I sign up for eTIMS Ticket Alert Services?
+265,DMV - eTIMS Ticket Alert Services Issues,What issues can arise with the eTIMS Ticket Alert Services?
+266,DMV - eTIMS Ticket Alert Services Issues,How can I report issues with the eTIMS Ticket Alert Services to 311?
+267,DOEE - General Environmental Concerns,How can I report a potential environmental hazard in my neighborhood to the Department of Energy and Environment?
+268,DOEE - General Environmental Concerns,What types of environmental concerns fall under the jurisdiction of the Department of Energy and Environment?
+269,DOEE - General Environmental Concerns,Is there a specific process for following up on a report submitted to the Department of Energy and Environment regarding a general environmental concern?
+270,Wire Down/Power Outage,How quickly can the power company respond to a report of a wire down or power outage?
+271,Wire Down/Power Outage,What steps should residents take to stay safe during a power outage caused by a wire down?
+272,Wire Down/Power Outage,Are there any updates or alerts provided to residents regarding the status of a reported wire down or power outage?
+273,Utility Repair Issue,How quickly can the utility repair issue be addressed?
+274,Utility Repair Issue,Will the repair work require any disruptions to utilities in the area?
+275,Utility Repair Issue,How can I track the progress of the utility repair issue?
+276,Streetlight Repair Investigation,How quickly can the streetlight repair investigation be completed?
+277,Streetlight Repair Investigation,Will the repair investigation involve any road closures or disruptions to traffic?
+278,Streetlight Repair Investigation,What steps will be taken to prevent future streetlight malfunctions in the area?
+279,Trash Cart Repair,How quickly can the trash cart be repaired once a request is submitted?
+280,Trash Cart Repair,Is there a limit to the number of times a trash cart can be repaired before it needs to be replaced?
+281,Trash Cart Repair,Will the repair be completed by city workers or a contracted service?
+282,Snow Towing,How do I request snow towing for my vehicle?
+283,Snow Towing,Is there a specific time frame for when snow towing services are available?
+284,Snow Towing,What are the costs associated with snow towing services?
+285,Recycling Cart Delivery,How long does it typically take to receive a new recycling cart after submitting a request?
+286,Recycling Cart Delivery,Is there a fee associated with requesting a recycling cart delivery?
+287,Recycling Cart Delivery,Can I request a specific size or color of recycling cart for delivery?
+288,Out of State Parking Violation (ROSA),How do I report an out of state parking violation?
+289,Out of State Parking Violation (ROSA),What information do I need to provide when reporting a ROSA violation?
+290,Out of State Parking Violation (ROSA),What is the process for resolving an out of state parking violation through 311?
+291,DOEE - Nuisance Odor Complaints,How quickly can the Department of Energy & Environment (DOEE) respond to nuisance odor complaints?
+292,DOEE - Nuisance Odor Complaints,What steps does DOEE take to investigate and address nuisance odor complaints?
+293,DOEE - Nuisance Odor Complaints,Are there any specific guidelines or regulations in place to prevent nuisance odors in residential areas?
+294,Snow Sidewalk Shoveling Enforcement Exemption,How can I apply for a snow sidewalk shoveling enforcement exemption?
+295,Snow Sidewalk Shoveling Enforcement Exemption,What are the qualifications for receiving a snow sidewalk shoveling enforcement exemption?
+296,Snow Sidewalk Shoveling Enforcement Exemption,Are there any fees associated with applying for a snow sidewalk shoveling enforcement exemption?
+297,Emergency - Transportation,How quickly can emergency transportation services arrive at my location?
+298,Emergency - Transportation,What types of emergency transportation options are available in my area?
+299,Emergency - Transportation,Can I request emergency transportation for someone else in need?
+300,Graffiti Removal,How quickly can the city respond to a graffiti removal request?
+301,Graffiti Removal,Is there a specific process for reporting graffiti in different areas of the city?
+302,Graffiti Removal,Are there any specific guidelines or restrictions for what type of graffiti can be removed?
+303,Trash Collection - Missed,How do I report a missed trash collection?
+304,Trash Collection - Missed,What is the process for rescheduling a missed trash collection?
+305,Trash Collection - Missed,Can I request a refund for a missed trash collection?
+306,Tree Inspection,How often are tree inspections conducted in residential areas?
+307,Tree Inspection,What criteria are used to determine if a tree needs inspection?
+308,Tree Inspection,Are there any fees associated with requesting a tree inspection?
+309,DMV - Vehicle Title Issues,How can I resolve a discrepancy with my vehicle title?
+310,DMV - Vehicle Title Issues,What steps do I need to take to transfer a vehicle title?
+311,DMV - Vehicle Title Issues,Are there any resources available to help me with a vehicle title issue?
+312,Streetcar,How do I request a streetcar stop near my neighborhood?
+313,Streetcar,Can I request a new streetcar route be added to the city?
+314,Streetcar,Is there a way to report a maintenance issue with a streetcar?
+315,Abandoned Bicycle,How long will it take for the abandoned bicycle to be removed?
+316,Abandoned Bicycle,What steps can I take to report an abandoned bicycle in my neighborhood?
+317,Abandoned Bicycle,Will the abandoned bicycle be donated or recycled after it is removed?
+318,Signed Street Sweeping Missed,How can I report a missed street sweeping sign in my neighborhood?
+319,Signed Street Sweeping Missed,Will the city issue a citation to the street sweeping company for missing a sign?
+320,Signed Street Sweeping Missed,What steps can I take to ensure the street sweeping company does not miss signs in the future?
+321,DMV - Online Processing Issues,How can I resolve issues with online processing at the DMV?
+322,DMV - Online Processing Issues,Is there a way to expedite the processing of my online request with the DMV?
+323,DMV - Online Processing Issues,What steps can I take to prevent online processing issues with the DMV in the future?
+324,TRU Report,What is a TRU Report and how can I request one?
+325,TRU Report,How long does it typically take for a TRU Report to be processed?
+326,TRU Report,Are there any specific requirements or information needed to submit a request for a TRU Report?
+327,Sidewalk Shoveling Enforcement Exemption,How can I apply for a sidewalk shoveling enforcement exemption?
+328,Sidewalk Shoveling Enforcement Exemption,What are the criteria for being granted a sidewalk shoveling enforcement exemption?
+329,Sidewalk Shoveling Enforcement Exemption,Are there any penalties for not shoveling my sidewalk if I have an exemption?
+330,FEMS - 20/20 Vision Plan,What is the FEMS - 20/20 Vision Plan and how will it impact emergency medical services in our community?
+331,FEMS - 20/20 Vision Plan,How can residents provide input or feedback on the FEMS - 20/20 Vision Plan?
+332,FEMS - 20/20 Vision Plan,What are the key goals and objectives of the FEMS - 20/20 Vision Plan?
+333,DMV - Vehicle Registration Issues,How can I renew my vehicle registration if I have moved to a different state?
+334,DMV - Vehicle Registration Issues,What do I do if I never received my registration renewal notice in the mail?
+335,DMV - Vehicle Registration Issues,Can I request a refund if I paid for registration renewal but then decided to sell my vehicle?
+336,DMV - Ticket Payment Dispute,How can I dispute a ticket payment with the DMV?
+337,DMV - Ticket Payment Dispute,What documentation do I need to provide when disputing a ticket payment with the DMV?
+338,DMV - Ticket Payment Dispute,How long does the process typically take to resolve a ticket payment dispute with the DMV?
+339,Parking Meter Repair,How quickly can the parking meter be repaired after submitting a request?
+340,Parking Meter Repair,Will I be notified once the repair has been completed?
+341,Parking Meter Repair,Is there a timeframe for when parking meters are typically repaired after a request is submitted?
+342,SalesForce DC311 Application Request,How do I access the SalesForce DC311 application?
+343,SalesForce DC311 Application Request,What kind of information can I submit through the SalesForce DC311 application?
+344,SalesForce DC311 Application Request,Is there a tutorial or guide available for using the SalesForce DC311 application?
+345,Public Space Litter Can-Collection,How often are public space litter cans collected?
+346,Public Space Litter Can-Collection,What is the process for reporting a full or overflowing public space litter can?
+347,Public Space Litter Can-Collection,Are there specific guidelines for what can and cannot be disposed of in public space litter cans?
+348,How Is My Driving - Complaint,How can I report a complaint about a specific driver?
+349,How Is My Driving - Complaint,What information do I need to provide when making a complaint about a driver?
+350,How Is My Driving - Complaint,Will my report remain anonymous when reporting a complaint about a driver?
+351,DDS - Serious Medication Error,What steps should I take if I suspect a serious medication error has occurred?
+352,DDS - Serious Medication Error,How can I report a serious medication error that I have witnessed or experienced?
+353,DDS - Serious Medication Error,What are the potential consequences of a serious medication error for the patient and healthcare provider?
+354,Roadway Marking Modification,How can I request a modification to the roadway markings in my neighborhood?
+355,Roadway Marking Modification,What is the process for reviewing and approving roadway marking modifications?
+356,Roadway Marking Modification,"Can I propose specific changes to the roadway markings, such as adding a crosswalk or bike lane?"

@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Ignore large datasets:
+NYC311data.csv
+311_City_Service_Requests_in_2017.csv
+
 # Distribution / packaging
 .Python
 build/
