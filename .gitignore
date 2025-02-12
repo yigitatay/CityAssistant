@@ -10,6 +10,9 @@ __pycache__/
 NYC311data.csv
 311_City_Service_Requests_in_2017.csv
 
+# Mac
+.DS_Store
+
 # Distribution / packaging
 .Python
 build/
