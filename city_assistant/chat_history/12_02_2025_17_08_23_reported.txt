@@ -1,0 +1,13 @@
+City Asisstant: Hello, I am here to help with anything regarding residential issues. Ask me a question!
+User: What steps should residents take to stay safe during a power outage or when wires are down?
+City Assistant: During a power outage or when wires are down, residents should take the following steps to stay safe:
+
+1. **Stay Away**: Keep a safe distance from downed power lines or wires as they could still be energized and pose a serious risk of electric shock or electrocution.
+
+2. **Report the Issue**: Contact the local utility company or emergency services immediately to report the downed wires or power outage. In Washington D.C., you can report downed wires or power outages by calling 311.
+
+3. **Avoid Water**: Do not touch or approach downed wires if they are in contact with water, as water can conduct electricity.
+
+4. **Stay Informed**: Stay tuned to local news or emergency alerts for updates on the situation and instructions from authorities.
+
+Used request type: Not sure

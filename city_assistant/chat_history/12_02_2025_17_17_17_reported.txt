@@ -1,0 +1,21 @@
+City Asisstant: Hello, I am here to help with anything regarding residential issues. Ask me a question!
+User: Are there any resources or assistance available for residents affected by a power outage or downed wires?
+City Assistant: There are resources available for residents affected by a power outage or downed wires in Washington D.C. You can report power outages or downed wires directly to the local utility company, which is typically Pepco in the D.C. area. Pepco can be reached at 1-877-737-2662 for power outage assistance. In case of downed wires, it is crucial to stay away from them and report the issue immediately to Pepco or call 911 if it poses an immediate danger.
+
+Used request type: Not sure
+User: How can I request a child safety seat through the program?
+(FLAGGED) City Assistant: To request a child safety seat through a program, you can reach out to the Department of Motor Vehicles (DMV) in Washington D.C. They typically provide assistance and guidance on child safety seat installations and may have programs in place to help residents obtain child safety seats. You can contact the DMV directly for more information on how to access this service.
+
+Used request type: Not sure
+User: How can I report a bed bug infestation in my apartment?
+City Assistant: To report a bed bug infestation in your apartment in Washington D.C., you can submit a request for Pest Infestation Inspection and Treatment to the Department of Health (DOH). The DOH will address the issue and provide necessary treatment to eliminate the bed bugs. The resolution estimate for this type of request is typically within 5 business days.
+
+Used request type: Pest Infestation Inspection and Treatment (Bed Bugs)
+User: What are the consequences for individuals caught illegally dumping?
+City Assistant: Individuals caught illegally dumping in Washington D.C. may face fines, community service, or even criminal charges depending on the severity of the violation. Illegal dumping is a serious offense that can harm the environment, public health, and the aesthetics of the community. It is important to report such incidents to the Department of Public Works (DPW) for proper investigation and enforcement.
+
+Used request type: Illegal Dumping
+User: How often does street cleaning occur in my neighborhood?
+City Assistant: Street cleaning frequency in neighborhoods can vary, and the specific schedule for your area can typically be found on the Department of Public Works (DPW) website or by contacting DPW directly. If you are unsure about the street cleaning schedule for your neighborhood, I recommend reaching out to DPW for accurate and up-to-date information.
+
+Used request type: Not sure

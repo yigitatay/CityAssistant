@@ -1,0 +1,9 @@
+City Asisstant: Hello, I am here to help with anything regarding residential issues. Ask me a question!
+User: Are there any resources or assistance available for residents affected by a power outage or downed wires?
+City Assistant: There are resources available for residents affected by a power outage or downed wires in Washington D.C. You can report power outages or downed wires directly to the local utility company, which is typically Pepco in the D.C. area. Pepco can be reached at 1-877-737-2662 for power outage assistance. In case of downed wires, it is crucial to stay away from them and report the issue immediately to Pepco or call 911 if it poses an immediate danger.
+
+Used request type: Not sure
+User: How can I request a child safety seat through the program?
+City Assistant: To request a child safety seat through a program, you can reach out to the Department of Motor Vehicles (DMV) in Washington D.C. They typically provide assistance and guidance on child safety seat installations and may have programs in place to help residents obtain child safety seats. You can contact the DMV directly for more information on how to access this service.
+
+Used request type: Not sure

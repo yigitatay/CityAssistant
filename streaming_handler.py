@@ -16,6 +16,6 @@ class StreamingHandler(BaseCallbackHandler):
         self.chat_display.see(tk.END)
         self.cur_response = self.cur_response + ' ' + token
     
-    def on_llm_end(self, response, **kwargs):
+    def on_llm_end(self, **kwargs):
         self.cur_response = ''
         self.chat_display.delete(str(float(self.beginning_index)-1.0), 'end')

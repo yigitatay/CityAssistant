@@ -1,7 +1,6 @@
 import openai
 import os
 from streaming_handler import StreamingHandler
-import tkinter as tk
 import os
 import openai
 import numpy as np
@@ -10,6 +9,8 @@ import faiss
 import textstat
 import json
 import re
+import time
+
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 context_df = pd.read_csv('./data/dc_service_requests.csv')
@@ -90,19 +91,6 @@ def generate_response(user_query, handler):
     answer = response.choices[0].message.content
     return answer
 
-def check_completeness(ai_response, required_fields):
-    """
-    A naive completeness check that ensures the AI response mentions 
-    certain keywords or phrases. 'required_fields' can be a list of items 
-    we expect to see in the answer (e.g., department, resolution, etc.).
-
-    Returns True if all required fields appear, otherwise False.
-    """
-    response_lower = ai_response.lower()
-    for field in required_fields:
-        if field.lower() not in response_lower:
-            return False
-    return True
 
 def reprompt_for_correctness(query, ai_response, context_info):
     """
@@ -254,19 +242,23 @@ def print_eval_results(eval_result):
 
 
 class CityAssistant:
-    def __init__(self, chat_display: tk.Text):
-        ## TODO: Fix streaming handler
-        self.streaming_handler = StreamingHandler(chat_display=chat_display)
+    def __init__(self, chat_display):
+        self.chat_display = chat_display
+        self.streaming_handler = StreamingHandler(chat_display)
 
-        
     def run(self, query):
         ai_response = generate_response(query, handler=self.streaming_handler)
+        for word in ai_response.split():
+            self.streaming_handler.on_llm_new_token(word + " ")
+            time.sleep(0.02)  # Simulate delay
+
         try:
             request_type = ai_response.split("Used request type: ")[1]
         except:
             request_type = 'Not found'
         eval_result = evaluate_response_with_rules(query, ai_response, request_type)
         print_eval_results(eval_result)
+        self.streaming_handler.on_llm_end()
         return ai_response
 
     
