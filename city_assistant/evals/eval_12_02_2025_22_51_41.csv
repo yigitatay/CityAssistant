@@ -1,0 +1,4 @@
+,question,ai_response,flesch_reading_ease,gunning_fog,rt_complete,re_complete,complete,correct,revised_answer
+0,How can I request a hearing with the DMV?,"To request a hearing with the DMV, you can use the ""DMV - Hearings"" request type. This request type is specifically for requesting a hearing date not received or to reschedule an existing hearing. You can submit this request if you have already submitted your request via mail, the automated phone system, or in person and have not received a hearing date, or if you need to reschedule an existing hearing that is more than 7 days away from the current scheduled date.
+
+Used request type: DMV - Hearings",57.81,11.48,True,True,True,True,Correct

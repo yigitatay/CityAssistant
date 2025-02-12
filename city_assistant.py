@@ -15,7 +15,7 @@ import datetime
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 context_df = pd.read_csv('./data/dc_service_requests.csv')
-faiss_index = faiss.read_index("dc_requests.faiss")
+faiss_index = faiss.read_index("./faiss/dc_requests.faiss")
 
 def get_embedding(text, model="text-embedding-ada-002"):
     response = openai.embeddings.create(

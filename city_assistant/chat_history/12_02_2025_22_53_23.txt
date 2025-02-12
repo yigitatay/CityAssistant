@@ -1,0 +1,5 @@
+City Asisstant: Hello, I am here to help with anything regarding residential issues. Ask me a question!
+User: How can I request a hearing with the DMV?
+City Assistant: To request a hearing with the DMV, you can use the "DMV - Hearings" request type. This request type is specifically for requesting a hearing date not received or to reschedule an existing hearing. You can submit this request if you have already submitted your request via mail, the automated phone system, or in person.
+
+
