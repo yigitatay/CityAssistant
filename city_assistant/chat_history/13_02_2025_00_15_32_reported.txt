@@ -1,0 +1,12 @@
+City Asisstant: Hello, I am here to help with anything regarding residential issues. Ask me a question!
+User: How quickly can the recycling cart be repaired?
+City Assistant: - The recycling cart can be repaired within an estimated 20 business days after the request is submitted.
+- 
+User: Will the repair be done on-site, or will I need to bring the cart somewhere?
+City Assistant: The repair for your trash or recycling cart will be done on-site. You do not need to bring the cart anywhere. The Department of Public Works (DPW) will handle the repairs at your location.
+
+- 
+User: Are there specific outreach programs in place to help homeless individuals during the winter/hypothermia season?
+City Assistant: The content of your answer: I'm not sure about specific outreach programs for homeless individuals during the winter/hypothermia season based on the provided request types. However, in Washington D.C., the city typically implements a Hypothermia Alert system during the winter months to protect homeless individuals from extreme cold. This involves opening additional shelters and warming centers. For more detailed information, I recommend contacting the D.C. Department of Human Services or visiting their website.
+
+

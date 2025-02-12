@@ -91,12 +91,12 @@ def generate_response(user_query):
     
     # 4. Call API
     response = openai.chat.completions.create(
-        model="gpt-3.5-turbo",
+        model="gpt-4o",
         messages=[
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": FINAL_PROMPT},
         ],
-        temperature=0.3,
+        temperature=0.5,
     )
     answer = response.choices[0].message.content
     return answer
@@ -129,7 +129,7 @@ Task:
 """
 
     response = openai.chat.completions.create(
-        model="gpt-3.5-turbo",
+        model="gpt-4o",
         messages=[
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt}

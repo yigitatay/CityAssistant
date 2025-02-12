@@ -1,0 +1,20 @@
+City Asisstant: Hello, I am here to help with anything regarding residential issues. Ask me a question!
+User: How quickly can the recycling cart be repaired?
+City Assistant: - The recycling cart can be repaired within an estimated 20 business days after the request is submitted.
+- 
+User: Will the repair be done on-site, or will I need to bring the cart somewhere?
+City Assistant: The repair for your trash or recycling cart will be done on-site. You do not need to bring the cart anywhere. The Department of Public Works (DPW) will handle the repairs at your location.
+
+- 
+User: Are there specific outreach programs in place to help homeless individuals during the winter/hypothermia season?
+City Assistant: The content of your answer: I'm not sure about specific outreach programs for homeless individuals during the winter/hypothermia season based on the provided request types. However, in Washington D.C., the city typically implements a Hypothermia Alert system during the winter months to protect homeless individuals from extreme cold. This involves opening additional shelters and warming centers. For more detailed information, I recommend contacting the D.C. Department of Human Services or visiting their website.
+
+
+User: How do I schedule a Christmas tree removal in my neighborhood?
+City Assistant: To schedule a Christmas tree removal in your neighborhood, you need to place your holiday tree, wreath, or greenery at the front of your property on public space only. Make sure to remove all ornaments and lights and do not put the tree in a bag. The Department of Public Works (DPW) will collect these items from January 2, 2024, to March 2, 2024. If your tree is not collected during this time, you can submit a service request for a "Christmas Tree Removal-Missed." After March 2, 2024, holiday trees and greenery will be collected at your usual trash collection point.
+
+
+User: What are the specific regulations for parking enforcement in residential areas?
+City Assistant: The content of your answer: In Washington D.C., the Residential Parking Program (RPP) regulates parking in designated residential areas. Residents who participate in the RPP are issued zone-specific parking permits, which allow them to park on residential streets in their zone without time restrictions. Vehicles without the appropriate zone RPP sticker are limited to parking for a maximum of two hours during the program's hours of operation. Parking enforcement is typically active from 6:00 am until 9:30 pm, Monday through Friday. Please note that enforcement requests may not be fulfilled outside these hours, during weekends, or on government holidays.
+
+

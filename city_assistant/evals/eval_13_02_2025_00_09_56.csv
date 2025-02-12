@@ -1,0 +1,14 @@
+,question,ai_response,flesch_reading_ease,gunning_fog,rt_complete,re_complete,complete,correct,revised_answer
+0,I realized that a recycling cart is broken where I live. How quickly can it be repaired?,"I'm sorry, I'm not sure which specific request type to use for a broken recycling cart in your residence. However, you can try reaching out to the Department of Public Works (DPW) in Washington D.C. for assistance with repairing your recycling cart. They typically estimate a resolution time of 20 business days for recycling cart repairs.",48.81,12.74,False,False,False,True,Correct
+1,"Will the repair be done on-site, or will I need to bring the cart somewhere?","The repair for your trash or recycling cart will typically be done on-site. You will not need to bring the cart anywhere for the repair to be completed.
+
+Used request type: Trash Cart Repair, Recycling Cart Repair",67.45,8.16,False,False,False,True,Correct
+2,Is there a fee for repairing the recycling cart?,"Yes, there is no fee mentioned for repairing the recycling cart. 
+
+Used request type: Recycling Cart Repair",62.85,8.11,True,False,False,False,"No, there is no fee mentioned for repairing the recycling cart according to the official data provided."
+3,Is there a fee for repairing the recycling cart?,"Yes, there is no fee mentioned for repairing the recycling cart in the provided service requests. 
+
+Used request type: Recycling Cart Repair",51.85,9.85,True,False,False,False,"No, there is no fee mentioned for repairing the recycling cart in the provided service requests."
+4,How do I report an illegal poster in my neighborhood?,"To report an illegal poster in your neighborhood in Washington D.C., you should submit a service request to the Department of Public Works (DPW) using the ""Illegal Poster"" request type. This request type is specifically designed for reporting posters that have been illegally or improperly placed. The DPW aims to resolve such issues within 5 business days.
+
+Used request type: Illegal Poster",50.43,9.48,True,True,True,True,Correct

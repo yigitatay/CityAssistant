@@ -50,8 +50,8 @@ class ChatApp:
 
     def save_and_exit(self):
         self.city_assistant.save_df()
-        if not self.reported:
-            self.save_chat_history(report=False)  # Save chat history before exiting
+
+        self.save_chat_history(report=False)  # Save chat history before exiting
 
         self.root.destroy()
 
