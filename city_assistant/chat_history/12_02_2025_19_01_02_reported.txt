@@ -1,0 +1,5 @@
+City Asisstant: Hello, I am here to help with anything regarding residential issues. Ask me a question!
+User: How can I track the status of my offset with the DMV?
+City Assistant: To track the status of your offset with the DMV, you can contact the DMV directly through their customer service hotline at [insert DMV customer service number]. They will be able to provide you with the most up-to-date information regarding your offset status. 
+
+Used request type: Not sure

@@ -1,0 +1,1 @@
+Problem: The chatbot is unable to directly track the status of the user's offset with the DMV and is instead providing general information on how to contact the DMV for more information.

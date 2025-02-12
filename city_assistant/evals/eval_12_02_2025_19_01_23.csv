@@ -1,0 +1,7 @@
+,question,ai_response,flesch_reading_ease,gunning_fog,rt_complete,re_complete,complete,correct,revised_answer
+0,How can I track the status of my offset with the DMV?,"To track the status of your offset with the DMV, you can contact the DMV directly through their customer service hotline at [insert DMV customer service number]. They will be able to provide you with the most up-to-date information regarding your offset status. 
+
+Used request type: Not sure",63.7,8.9,False,False,False,True,Correct
+1,What information do I need to provide in order to request an offset tracking from the DMV?,"To request an offset tracking from the DMV, you would need to provide specific information related to the offset you are inquiring about. This may include details such as the date of the offset, the reason for the offset, any reference numbers associated with the offset, and any relevant documentation you have regarding the offset.
+
+Used request type: Not sure",42.72,14.0,False,False,False,False,"To request an offset tracking from the DMV, you would need to provide specific information related to the offset you are inquiring about. This may include details such as the date of the offset, the reason for the offset, any reference numbers associated with the offset, and any relevant documentation you have regarding the offset. Additionally, you may need to provide personal identification details such as your name, address, driver's license number, and contact information for verification purposes."

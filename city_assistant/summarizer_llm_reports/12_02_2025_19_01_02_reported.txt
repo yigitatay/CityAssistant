@@ -1,0 +1,1 @@
+Problem: The City Assistant chatbot was unable to provide the user with information on how to track the status of their offset with the DMV. The chatbot directed the user to contact the DMV directly for this information.

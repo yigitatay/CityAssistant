@@ -10,6 +10,7 @@ import textstat
 import json
 import re
 import time
+import datetime
 
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
@@ -245,6 +246,7 @@ class CityAssistant:
     def __init__(self, chat_display):
         self.chat_display = chat_display
         self.streaming_handler = StreamingHandler(chat_display)
+        self.results_df = pd.DataFrame(columns=['question', 'ai_response', 'flesch_reading_ease', 'gunning_fog', 'rt_complete', 're_complete', 'complete', 'correct', 'revised_answer'])
 
     def run(self, query):
         ai_response = generate_response(query, handler=self.streaming_handler)
@@ -258,7 +260,34 @@ class CityAssistant:
             request_type = 'Not found'
         eval_result = evaluate_response_with_rules(query, ai_response, request_type)
         print_eval_results(eval_result)
+        self.append_to_df(eval_result=eval_result, question=query, ai_answer=ai_response)
         self.streaming_handler.on_llm_end()
         return ai_response
+    
+    def append_to_df(self, eval_result, question, ai_answer):
+        flesch_re, gunning_fog = eval_result['flesch_reading_ease'], eval_result['gunning_fog']
+        rt_complete, re_complete, complete = eval_result['rt_complete'], eval_result['resolution_estimate_complete'], eval_result['complete']
+        correct = eval_result['is_correct']
+        revised_answer = eval_result['revised_answer'] if not correct else 'Correct'
+
+        cur_dict = {
+            'question': question,
+            'ai_response': ai_answer,
+            'flesch_reading_ease': flesch_re,
+            'gunning_fog': gunning_fog,
+            'rt_complete': rt_complete,
+            're_complete': re_complete,
+            'complete': complete,
+            'correct': correct,
+            'revised_answer': revised_answer
+        }
+
+        dict_df = pd.DataFrame([cur_dict])
+
+        self.results_df = pd.concat([self.results_df, dict_df], ignore_index=True)
+    
+    def save_df(self):
+        current_datetime = datetime.datetime.now().strftime("%d_%m_%Y_%H_%M_%S")
+        self.results_df.to_csv(f'./city_assistant/evals/eval_{current_datetime}.csv')
 
     

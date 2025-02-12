@@ -55,8 +55,10 @@ class ChatApp:
         self.city_assistant = CityAssistant(self.chat_display)
 
     def save_and_exit(self):
+        self.city_assistant.save_df()
         if not self.reported:
             self.save_chat_history(report=False)  # Save chat history before exiting
+
         self.root.destroy()  # Close the application
 
     def send_message(self):
@@ -98,6 +100,8 @@ class ChatApp:
 
         self.send_button['state'] = 'active'
         self.send_enabled = True
+        ## We don't need to show the user the request type
+        bot_message = bot_message.split('Used request type')[0]
         self.display_message(bot_message, color='blue')
         self.chat_history.append(bot_message)
 

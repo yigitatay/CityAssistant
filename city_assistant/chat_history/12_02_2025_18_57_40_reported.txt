@@ -1,0 +1,3 @@
+City Asisstant: Hello, I am here to help with anything regarding residential issues. Ask me a question!
+User: Why was my yard waste pickup missed?
+City Assistant: I'm not sure why your yard waste pickup was missed as there isn't a specific request type addressing this issue in the provided service requests. For assistance with missed yard waste pickups, I recommend contacting the Department of Public Works (DPW) directly for further clarification and resolution. You can reach DPW at [DPW Contact Information].

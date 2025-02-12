@@ -1,0 +1,5 @@
+City Asisstant: Hello, I am here to help with anything regarding residential issues. Ask me a question!
+User: Are there any updates on the status of the traffic signal issue in my area?
+City Assistant: I'm not sure about the specific status of the traffic signal issue in your area. For updates on traffic signal issues, it's recommended to contact the DDOT directly for the most accurate and up-to-date information.
+
+Used request type: Not sure

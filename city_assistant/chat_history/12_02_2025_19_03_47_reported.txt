@@ -1,0 +1,5 @@
+City Asisstant: Hello, I am here to help with anything regarding residential issues. Ask me a question!
+User: What information do I need to provide in order to request an offset tracking from the DMV?
+City Assistant: To request an offset tracking from the DMV, you will need to provide specific information related to the offset you are inquiring about. This may include details such as the offset reference number, the reason for the offset, any relevant documentation supporting your request, and your contact information for follow-up communication.
+
+
