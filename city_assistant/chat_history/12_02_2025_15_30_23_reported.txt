@@ -1,0 +1,5 @@
+City Asisstant: Hello, I am here to help with anything regarding residential issues. Ask me a question!
+User: How quickly can the city respond to requests for snow/ice removal?
+City Assistant: The city typically aims to respond to requests for snow/ice removal within 24 hours, but response times may vary based on the severity of the weather conditions and the volume of requests received. For urgent situations, such as during snow emergencies, priority is given to clearing main roads and high-traffic areas first. If you have a specific request for snow/ice removal, please submit it through the appropriate channels, and the city will address it as promptly as possible.
+
+Used request type: Not applicable
