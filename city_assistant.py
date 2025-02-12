@@ -1,6 +1,6 @@
 import openai
 import os
-from streaming_handler import StreamingHandler
+from helpers.streaming_handler import StreamingHandler
 import os
 import openai
 import numpy as np
@@ -15,6 +15,7 @@ import datetime
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 context_df = pd.read_csv('./data/dc_service_requests.csv')
+faiss_index = faiss.read_index("dc_requests.faiss")
 
 def get_embedding(text, model="text-embedding-ada-002"):
     response = openai.embeddings.create(
@@ -24,14 +25,19 @@ def get_embedding(text, model="text-embedding-ada-002"):
     return np.array(response.data[0].embedding)
 
 def res_estimate_helper(res_estimate):
+    '''
+    Helper function to format resolution estimate
+    '''
     resolution_estimate = res_estimate.split(' ')[0]
     bd_or_cd = res_estimate.split(' ')[1]
     resolution_estimate += ' business days' if bd_or_cd == 'bd' else ' calendar days'
     return resolution_estimate
 
-faiss_index = faiss.read_index("dc_requests.faiss")
 
 def search_dc_requests(query: str, top_k: int = 3):
+    '''
+    Searches similar request types for the given query and creates the context dict.
+    '''
     query_vec = get_embedding(query).astype(np.float32).reshape(1, -1)
     # Search FAISS index
     distances, indices = faiss_index.search(query_vec, top_k)
@@ -49,7 +55,10 @@ def search_dc_requests(query: str, top_k: int = 3):
         })
     return results
 
-def generate_response(user_query, handler):
+def generate_response(user_query):
+    '''
+    Generates a response to the user query.
+    '''
     # 1. Retrieve relevant requests from context
     dc_results = search_dc_requests(user_query, top_k=3)
     
@@ -95,12 +104,8 @@ def generate_response(user_query, handler):
 
 def reprompt_for_correctness(query, ai_response, context_info):
     """
-    Calls the LLM again to check whether the AI's answer is correct 
-    given the context_info (e.g., the row from dc_service_requests).
-    Returns a dict with "is_correct" and "revised_answer" or similar fields.
-    
-    For demonstration, we do a ChatCompletion call that we parse.
-    In production, you might want more robust JSON parsing or error handling.
+    Calls the LLM again to check whether the AI's answer is correct given the context_info.
+    Returns a dict with "is_correct" and "revised_answer".
     """
 
     system_prompt = "You are a QA system verifying correctness of the AI’s response."
@@ -134,10 +139,8 @@ Task:
 
     content = response.choices[0].message.content.strip()
 
-    # Attempt to parse a JSON-like structure from the content
     # We'll do a simple regex to find a JSON block, then use Python's `json` if well-formed
     try:
-        # find a JSON substring
         json_match = re.search(r"\{.*\}", content, flags=re.DOTALL)
         if json_match:
             json_str = json_match.group(0)
@@ -148,7 +151,7 @@ Task:
                 "is_correct": False,
                 "revised_answer": "Could not parse JSON from LLM response"
             }
-    except Exception as e:
+    except Exception as e: # just in case the LLM doesn't output proper json
         return {
             "is_correct": False,
             "revised_answer": f"Error parsing LLM output: {str(e)}"
@@ -157,7 +160,7 @@ Task:
 def evaluate_response_with_rules(query, ai_response, request_type):
     """
     Checks if the AI response obeys known rules from context_df and overall readability guidelines.
-    Returns a dictionary with flags, metrics, and/or suggested corrections.
+    Returns a dictionary with flags, metrics, and suggested revisions.
     """
     evaluation_result = {
         "flesch_reading_ease": None, 
@@ -216,6 +219,9 @@ def evaluate_response_with_rules(query, ai_response, request_type):
     return evaluation_result
 
 def print_eval_results(eval_result):
+    """
+    Prints the evaluation results to the console (they are already written in a csv at termination). 
+    """
     print("\nEVALUATION OF AI RESPONSE:\n")
 
     print("READABILITY:")
@@ -249,10 +255,13 @@ class CityAssistant:
         self.results_df = pd.DataFrame(columns=['question', 'ai_response', 'flesch_reading_ease', 'gunning_fog', 'rt_complete', 're_complete', 'complete', 'correct', 'revised_answer'])
 
     def run(self, query):
-        ai_response = generate_response(query, handler=self.streaming_handler)
+        '''
+        Runs the City Assistant with the given query.
+        '''
+        ai_response = generate_response(query)
         for word in ai_response.split():
             self.streaming_handler.on_llm_new_token(word + " ")
-            time.sleep(0.02)  # Simulate delay
+            time.sleep(0.02)
 
         try:
             request_type = ai_response.split("Used request type: ")[1]
@@ -265,6 +274,9 @@ class CityAssistant:
         return ai_response
     
     def append_to_df(self, eval_result, question, ai_answer):
+        '''
+        Appends the evaluation results to the results dataframe.
+        '''
         flesch_re, gunning_fog = eval_result['flesch_reading_ease'], eval_result['gunning_fog']
         rt_complete, re_complete, complete = eval_result['rt_complete'], eval_result['resolution_estimate_complete'], eval_result['complete']
         correct = eval_result['is_correct']
